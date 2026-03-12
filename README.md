@@ -2,9 +2,9 @@
 
 # Data Selected : mental_health_risk_dataset.csv.
 
-#TOPIC: EXPLORING WHAT FACTORS DRIVE MENTAL HEALTH RISK 
+# TOPIC: EXPLORING WHAT FACTORS DRIVE MENTAL HEALTH RISK 
 
-#RESEARCH QUESTIONS 
+# RESEARCH QUESTIONS 
 
 a) How do mental health risk scores vary across demographic factors such as gender, age group, marital status, education level, and employment status?
 
