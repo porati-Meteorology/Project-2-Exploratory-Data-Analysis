@@ -1,6 +1,6 @@
 # Project-2-Exploratory-Data-
 
-Link to the Google Do: https://docs.google.com/document/d/130Ft1z0H_lSSQBzQyR2qWHt33Rts6Goi57bPEIr8ixk/edit?usp=sharing
+Link to the Google Docs report : https://docs.google.com/document/d/130Ft1z0H_lSSQBzQyR2qWHt33Rts6Goi57bPEIr8ixk/edit?usp=sharing
 
 # Data Selected : mental_health_risk_dataset.csv.
 
@@ -18,5 +18,7 @@ d) Do clinical and psychological history factors show the strongest influence on
 
 e) Across all variables, which factors most strongly predict an individual's mental health risk level, and how do they rank by effect size?
 
+# VISUALIZATION TOOLS
 
+Jupyter Notebooks (Python)
 
