@@ -1,4 +1,4 @@
-# Project-2-Exploratory-Data-
+# Project 2: Exploratory Data Analysis
 
 Link to the Google Docs report : https://docs.google.com/document/d/130Ft1z0H_lSSQBzQyR2qWHt33Rts6Goi57bPEIr8ixk/edit?usp=sharing
 
