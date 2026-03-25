@@ -2,9 +2,9 @@
 
 Link to the Google Docs report : https://docs.google.com/document/d/130Ft1z0H_lSSQBzQyR2qWHt33Rts6Goi57bPEIr8ixk/edit?usp=sharing
 
-# Data Selected : mental_health_risk_dataset.csv.
+Data Selected from kaggle : mental_health_risk_dataset.csv.
 
-# TOPIC: EXPLORING WHAT FACTORS DRIVE MENTAL HEALTH RISK 
+TOPIC: EXPLORING WHAT FACTORS DRIVE MENTAL HEALTH RISK 
 
 # RESEARCH QUESTIONS 
 
